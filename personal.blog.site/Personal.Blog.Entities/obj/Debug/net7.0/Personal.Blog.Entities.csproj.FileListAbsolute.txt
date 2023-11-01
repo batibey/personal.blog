@@ -1,0 +1,15 @@
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/bin/Debug/net7.0/Personal.Blog.Entities.deps.json
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/bin/Debug/net7.0/Personal.Blog.Entities.dll
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/bin/Debug/net7.0/Personal.Blog.Entities.pdb
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/bin/Debug/net7.0/Personal.Blog.Shared.dll
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/bin/Debug/net7.0/Personal.Blog.Shared.pdb
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/Personal.Blog.Entities.csproj.AssemblyReference.cache
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/Personal.Blog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/Personal.Blog.Entities.AssemblyInfoInputs.cache
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/Personal.Blog.Entities.AssemblyInfo.cs
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/Personal.Blog.Entities.csproj.CoreCompileInputs.cache
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/Personal.Blog.Entities.csproj.CopyComplete
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/Personal.Blog.Entities.dll
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/refint/Personal.Blog.Entities.dll
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/Personal.Blog.Entities.pdb
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/Debug/net7.0/ref/Personal.Blog.Entities.dll

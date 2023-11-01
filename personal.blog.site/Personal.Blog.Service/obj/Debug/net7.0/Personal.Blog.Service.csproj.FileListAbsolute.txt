@@ -1,0 +1,12 @@
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/bin/Debug/net7.0/Personal.Blog.Service.deps.json
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/bin/Debug/net7.0/Personal.Blog.Service.dll
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/bin/Debug/net7.0/Personal.Blog.Service.pdb
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/Personal.Blog.Service.csproj.AssemblyReference.cache
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/Personal.Blog.Service.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/Personal.Blog.Service.AssemblyInfoInputs.cache
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/Personal.Blog.Service.AssemblyInfo.cs
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/Personal.Blog.Service.csproj.CoreCompileInputs.cache
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/Personal.Blog.Service.dll
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/refint/Personal.Blog.Service.dll
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/Personal.Blog.Service.pdb
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Service/obj/Debug/net7.0/ref/Personal.Blog.Service.dll

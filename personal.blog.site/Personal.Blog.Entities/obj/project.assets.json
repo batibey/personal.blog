@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Personal.Blog.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Personal.Blog.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Personal.Blog.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Personal.Blog.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Personal.Blog.Shared/Personal.Blog.Shared.csproj",
+      "msbuildProject": "../Personal.Blog.Shared/Personal.Blog.Shared.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Personal.Blog.Shared >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mustafabati/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/Personal.Blog.Entities.csproj",
+      "projectName": "Personal.Blog.Entities",
+      "projectPath": "/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/Personal.Blog.Entities.csproj",
+      "packagesPath": "/Users/mustafabati/.nuget/packages/",
+      "outputPath": "/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Entities/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mustafabati/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Shared/Personal.Blog.Shared.csproj": {
+              "projectPath": "/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Shared/Personal.Blog.Shared.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
