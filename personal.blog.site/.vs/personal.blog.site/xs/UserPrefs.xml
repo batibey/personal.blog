@@ -9,10 +9,10 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="personal.blog.site" expanded="True">
+          <Node name="personal.blog.site">
             <Node name="Personal.Blog.Entities">
-              <Node name="Concrete">
-                <Node name="Summary.cs" selected="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="Admin.cs" selected="True" />
               </Node>
             </Node>
           </Node>
