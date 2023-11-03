@@ -1,19 +1,18 @@
 ﻿<Properties StartupConfiguration="{F495C8E1-6903-40C2-841C-7E6BD84C89FF}|https">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Personal.Blog.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Personal.Blog.Entities/Concrete/Categories.cs">
+    <Files>
+      <File FileName="Personal.Blog.Entities/Concrete/Admin.cs" Line="6" Column="42" />
+      <File FileName="Personal.Blog.Entities/Concrete/Categories.cs" Line="11" Column="32" />
+      <File FileName="Personal.Blog.Entities/Concrete/Articles.cs" Line="17" Column="32" />
+      <File FileName="Personal.Blog.Entities/Concrete/Commens.cs" Line="12" Column="19" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="personal.blog.site">
-            <Node name="Personal.Blog.Entities">
-              <Node name="Concrete" expanded="True">
-                <Node name="Admin.cs" selected="True" />
-              </Node>
+          <Node name="personal.blog.site" expanded="True">
+            <Node name="Personal.Blog.Entities" expanded="True">
+              <Node name="Concrete" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -21,4 +20,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

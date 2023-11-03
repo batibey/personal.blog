@@ -9,9 +9,13 @@
   <ItemGroup>
     <None Remove="Entities\" />
     <None Remove="Entities\Abstract\" />
+    <None Remove="Data\" />
+    <None Remove="Data\Abstract\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Entities\Abstract\" />
+    <Folder Include="Data\" />
+    <Folder Include="Data\Abstract\" />
   </ItemGroup>
 </Project>
