@@ -11,11 +11,18 @@
     <None Remove="Entities\Abstract\" />
     <None Remove="Data\" />
     <None Remove="Data\Abstract\" />
+    <None Remove="Data\Concrete\" />
+    <None Remove="Data\Concrete\EntityFramework\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Entities\" />
     <Folder Include="Entities\Abstract\" />
     <Folder Include="Data\" />
     <Folder Include="Data\Abstract\" />
+    <Folder Include="Data\Concrete\" />
+    <Folder Include="Data\Concrete\EntityFramework\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.13" />
   </ItemGroup>
 </Project>
