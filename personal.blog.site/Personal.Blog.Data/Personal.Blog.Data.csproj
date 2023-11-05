@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Abstract\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Abstract\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Personal.Blog.Shared\Personal.Blog.Shared.csproj" />
+    <ProjectReference Include="..\Personal.Blog.Entities\Personal.Blog.Entities.csproj" />
+  </ItemGroup>
 </Project>
