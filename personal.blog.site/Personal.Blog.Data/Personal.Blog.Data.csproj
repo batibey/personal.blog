@@ -8,9 +8,15 @@
 
   <ItemGroup>
     <None Remove="Abstract\" />
+    <None Remove="Concrete\" />
+    <None Remove="Concrete\EntityFramework\" />
+    <None Remove="Concrete\EntityFramework\Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Abstract\" />
+    <Folder Include="Concrete\" />
+    <Folder Include="Concrete\EntityFramework\" />
+    <Folder Include="Concrete\EntityFramework\Repositories\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Personal.Blog.Shared\Personal.Blog.Shared.csproj" />
