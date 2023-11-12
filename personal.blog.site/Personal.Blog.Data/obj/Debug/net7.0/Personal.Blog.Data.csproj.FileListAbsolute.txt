@@ -1,4 +1,5 @@
 /Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/bin/Debug/net7.0/Personal.Blog.Data.deps.json
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/bin/Debug/net7.0/Personal.Blog.Data.runtimeconfig.json
 /Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/bin/Debug/net7.0/Personal.Blog.Data.dll
 /Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/bin/Debug/net7.0/Personal.Blog.Data.pdb
 /Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/bin/Debug/net7.0/Personal.Blog.Entities.dll
@@ -14,4 +15,5 @@
 /Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/obj/Debug/net7.0/Personal.Blog.Data.dll
 /Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/obj/Debug/net7.0/refint/Personal.Blog.Data.dll
 /Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/obj/Debug/net7.0/Personal.Blog.Data.pdb
+/Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/obj/Debug/net7.0/Personal.Blog.Data.genruntimeconfig.cache
 /Users/mustafabati/Desktop/MyBlog/personal.blog.site/Personal.Blog.Data/obj/Debug/net7.0/ref/Personal.Blog.Data.dll

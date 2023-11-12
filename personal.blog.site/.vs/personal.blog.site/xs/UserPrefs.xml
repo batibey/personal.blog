@@ -1,21 +1,13 @@
 ﻿<Properties StartupConfiguration="{F495C8E1-6903-40C2-841C-7E6BD84C89FF}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.Personal.Blog.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Personal.Blog.Data/Concrete/EntityFramework/Repositories/EfAboutMeRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Personal.Blog.Shared/Data/Concrete/EntityFramework/EfEntityRepositoryBase.cs">
     <Files>
       <File FileName="Personal.Blog.Shared/Data/Concrete/EntityFramework/EfEntityRepositoryBase.cs" Line="25" Column="10" />
-      <File FileName="Personal.Blog.Data/Concrete/EntityFramework/Repositories/EfSkillsRepository.cs" Line="9" Column="37" />
-      <File FileName="Personal.Blog.Data/Concrete/EntityFramework/Repositories/EfAboutMe.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="personal.blog.site">
-            <Node name="Personal.Blog.Data">
+            <Node name="Personal.Blog.Data" expanded="True">
               <Node name="Concrete" expanded="True">
                 <Node name="EntityFramework" expanded="True">
                   <Node name="Repositories" expanded="True" />
@@ -25,10 +17,23 @@
             <Node name="Personal.Blog.Entities" expanded="True">
               <Node name="Concrete" expanded="True" />
             </Node>
+            <Node name="Personal.Blog.Shared" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Concrete" expanded="True">
+                  <Node name="EntityFramework" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Personal.Blog.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
