@@ -24,7 +24,7 @@ namespace Personal.Blog.Data.Concrete.EntityFramework.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(connectionString: @"Server=AAA;Database=PersonalBlog;Trusted_Connection=true");
+            optionsBuilder.UseSqlServer(connectionString: @"server=localhost,1433;database=PersonalBlog;user id=sa;password=Metropolitan20;Trusted_Connection=true");
         }
     }
 }
