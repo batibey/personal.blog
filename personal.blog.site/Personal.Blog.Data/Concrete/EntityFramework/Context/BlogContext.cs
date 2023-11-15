@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore;
+using Personal.Blog.Data.Concrete.EntityFramework.Mappings;
 using Personal.Blog.Entities.Concrete;
 
 namespace Personal.Blog.Data.Concrete.EntityFramework.Context
@@ -25,6 +26,11 @@ namespace Personal.Blog.Data.Concrete.EntityFramework.Context
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(connectionString: @"server=localhost,1433;database=PersonalBlog;user id=sa;password=Metropolitan20;Trusted_Connection=true");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new SummaryMap());
         }
     }
 }

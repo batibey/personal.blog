@@ -1,39 +1,26 @@
 ﻿<Properties StartupConfiguration="{F495C8E1-6903-40C2-841C-7E6BD84C89FF}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Personal.Blog.Shared/Data/Concrete/EntityFramework/EfEntityRepositoryBase.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Personal.Blog.Data/Concrete/EntityFramework/Context/BlogContext.cs">
     <Files>
       <File FileName="Personal.Blog.Shared/Data/Concrete/EntityFramework/EfEntityRepositoryBase.cs" Line="25" Column="10" />
+      <File FileName="Personal.Blog.Data/Concrete/EntityFramework/Context/BlogContext.cs" Line="27" Column="152" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="personal.blog.site">
-            <Node name="Personal.Blog.Data" expanded="True">
-              <Node name="Concrete" expanded="True">
-                <Node name="EntityFramework" expanded="True">
-                  <Node name="Repositories" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
-            <Node name="Personal.Blog.Entities" expanded="True">
-              <Node name="Concrete" expanded="True" />
-            </Node>
-            <Node name="Personal.Blog.Shared" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="Concrete" expanded="True">
-                  <Node name="EntityFramework" expanded="True" />
-                </Node>
-              </Node>
+            <Node name="Personal.Blog.Data">
+              <Node name="Dependencies" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.Personal.Blog.MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
 </Properties>
